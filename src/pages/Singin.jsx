@@ -1,5 +1,5 @@
 function Singin() {
-  return <div>Singin</div>;
+  return <div></div>;
 }
 
 export default Singin;
